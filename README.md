@@ -87,4 +87,4 @@ $ cordova build
 
 If you're using XCode, boot the SampleApp in the iOS Simulator and enable ```Debug->Location->City Drive```.
 
-Testing
+The best!
