@@ -1,0 +1,4 @@
+#Sat May 19 22:43:21 CEST 2018
+base.0=C\:\\android_apps\\geolocation\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\android_apps\\geolocation\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
