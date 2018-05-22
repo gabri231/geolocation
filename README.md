@@ -1,4 +1,4 @@
-Example Background Geolocation app.
+Ejemplo de aplicacion de Geolocalización en Background.
 =============================================
 
 ![MainUI](/appui.png)
