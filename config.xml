@@ -5,7 +5,7 @@
         Aplicacion de ejemplo de repartidores!
     </description>
     <author>
-        Gabriel Calle Torrez
+        Gabriel Calle Torrez - Tiago la pizza SL
     </author>
     <access origin="*" />
     <allow-intent href="http://*/*" />
