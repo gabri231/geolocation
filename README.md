@@ -1,6 +1,13 @@
 Ejemplo de aplicacion de Geolocalización en Background.
 =============================================
 
+This is a copy of this repository
+[https://github.com/mauron85/cordova-plugin-background-geolocation-example](https://github.com/mauron85/cordova-plugin-background-geolocation-example)
+
+This is a test place.
+
+Thanks mauron85
+
 ![MainUI](/appui.png)
 ![Settings](/settings.png)
 
